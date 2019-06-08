@@ -1,0 +1,6 @@
+ch.ralscha.extdirectspring.controller.RouterController=org.springframework.stereotype.Component
+ch.ralscha.extdirectspring.util.MethodInfoCache=org.springframework.stereotype.Component
+ch.ralscha.extdirectspring.util.ApiCache=org.springframework.stereotype.Component
+ch.ralscha.extdirectspring.controller.ApiController=org.springframework.stereotype.Component
+ch.ralscha.extdirectspring.controller.MethodRegistrar=org.springframework.stereotype.Component
+ch.ralscha.extdirectspring.controller.ConfigurationService=org.springframework.stereotype.Component

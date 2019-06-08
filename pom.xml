@@ -1,0 +1,52 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<parent>
+		<artifactId>oss-parent</artifactId>
+		<groupId>org.sonatype.oss</groupId>
+		<version>9</version>
+	</parent>
+
+
+	<groupId>ch.ralscha</groupId>
+	<artifactId>extdirectspring-index</artifactId>
+	<version>1.8.1-SNAPSHOT</version>
+
+	<inceptionYear>2019</inceptionYear>
+
+	<name>Ext.Direct Spring Index</name>
+	<description>Implements the Spring Index for extdirectspring</description>
+	<url>https://github.com/ralscha/extdirectspring-index/</url>
+
+	<developers>
+		<developer>
+			<name>Ralph Schaer</name>
+			<email>ralphschaer@gmail.com</email>
+		</developer>
+	</developers>
+
+	<licenses>
+		<license>
+			<name>Apache 2</name>
+			<url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+			<distribution>repo</distribution>
+		</license>
+	</licenses>
+
+	<issueManagement>
+		<system>GitHub</system>
+		<url>https://github.com/ralscha/extdirectspring/issues</url>
+	</issueManagement>
+
+	<scm>
+		<connection>scm:git:git@github.com:ralscha/extdirectspring.git</connection>
+		<developerConnection>scm:git:git@github.com:ralscha/extdirectspring.git</developerConnection>
+		<url>https://github.com/ralscha/extdirectspring.git</url>
+	</scm>
+
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	</properties>
+
+
+</project>
