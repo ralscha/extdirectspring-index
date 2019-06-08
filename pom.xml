@@ -39,9 +39,9 @@
 	</issueManagement>
 
 	<scm>
-		<connection>scm:git:git@github.com:ralscha/extdirectspring.git</connection>
-		<developerConnection>scm:git:git@github.com:ralscha/extdirectspring.git</developerConnection>
-		<url>https://github.com/ralscha/extdirectspring.git</url>
+		<connection>scm:git:git@github.com:ralscha/extdirectspring-index.git</connection>
+		<developerConnection>scm:git:git@github.com:ralscha/extdirectspring-index.git</developerConnection>
+		<url>https://github.com/ralscha/extdirectspring-index.git</url>
 	</scm>
 
 	<properties>
