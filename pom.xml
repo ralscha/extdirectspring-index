@@ -10,7 +10,7 @@
 
 	<groupId>ch.ralscha</groupId>
 	<artifactId>extdirectspring-index</artifactId>
-	<version>1.8.1</version>
+	<version>1.8.2-SNAPSHOT</version>
 
 	<inceptionYear>2019</inceptionYear>
 
